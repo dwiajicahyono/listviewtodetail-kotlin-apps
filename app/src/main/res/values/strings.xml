@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Provinsi Sumatra</string>
+
+    //1
+    <string name="populasiAceh">
+        5.184.003 Jiwa
+    </string>
+    <string name="acehDesc">Cook</string>
+
+    //2
+    <string name="populasiSumut">
+        5.184.003 Jiwa
+    </string>
+    <string name="sumutDesc">Add</string>
+
+    //3
+    <string name="populasiSumbar">
+        5.184.003 Jiwa
+    </string>
+    <string name="sumbarDesc">Add</string>
+
+    //4
+    <string name="populasiRiau">
+    5.184.003 Jiwa
+    </string>
+    <string name="riauDesc">Add</string>
+
+    //5
+    <string name="populasiKepulauanRiau">
+        5.184.003 Jiwa
+    </string>
+    <string name="kepRiauDesc">Add</string>
+
+    //6
+    <string name="populasiJambi">
+        5.184.003 Jiwa
+    </string>
+    <string name="jambiDesc">Add</string>
+
+    //7
+    <string name="populasiBengkulu">
+        5.184.003 Jiwa
+    </string>
+    <string name="bengkuluDesc">Add</string>
+
+    //8
+    <string name="populasiSumsel">
+        5.184.003 Jiwa
+    </string>
+    <string name="sumselDesc">Add</string>
+
+    //9
+    <string name="populasiBangkaBelitung">
+        5.184.003 Jiwa
+    </string>
+    <string name="babelDesc">Add</string>
+
+    //10
+    <string name="populasiLampung">
+        5.184.003 Jiwa
+    </string>
+    <string name="lampungDesc">Add</string>
+
+
+
+</resources>
