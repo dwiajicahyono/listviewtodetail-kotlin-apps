@@ -10,6 +10,9 @@ class DetailedActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+
+
         binding = ActivityDetailedBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -27,6 +30,17 @@ class DetailedActivity : AppCompatActivity() {
             binding.detailDesc.setText(desc)
             binding.populasi.setText(populasi)
             binding.detailImage.setImageResource(image)
+
+            //        menambahkan tombol back dengan title provinsi itu
+            val actionbar = supportActionBar
+            actionbar!!.title = "$name"
+            actionbar.setDisplayHomeAsUpEnabled(true)
         }
+    }
+
+    //    menambahkan aksi ketika tombol navigasi ditekan amka kembali ke area sebelumnya
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return true
     }
 }

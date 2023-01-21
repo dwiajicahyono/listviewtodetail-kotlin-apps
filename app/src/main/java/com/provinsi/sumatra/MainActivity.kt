@@ -11,12 +11,14 @@ import com.provinsi.sumatra.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    // Menambahkan toolbar berisi log profil pada main activity
+
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.toolbar_profile, menu)
         return true
     }
 
-
+// menampilkan aksi untuk pindah dari main ke about
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when(item.itemId) {
             R.id.profile -> {
@@ -26,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         }
         return true
     }
-
+// list view to detail command
     private lateinit var binding: ActivityMainBinding
     private lateinit var listAdapter: ListAdapter
     private lateinit var listData: ListData

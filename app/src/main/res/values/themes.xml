@@ -14,6 +14,11 @@
         <!-- Customize your theme here. -->
     </style>
 
+<!--    tema dengan action bar tidak ada cara mengubahnya di android manifest yang android:theme-->
+    <style name="Theme" parent="Theme.AppCompat.DayNight.NoActionBar"></style>
+
+
+<!--tema round image-->
     <style name="roundImage">
         <item name="cornerFamily">rounded</item>
         <item name="cornerSize">50%</item>
