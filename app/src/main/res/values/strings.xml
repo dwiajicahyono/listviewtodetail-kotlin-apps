@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Provinsi Sumatra</string>
+    <string name="my_name">Provinsi Sumatra</string>
+    <string name="my_email">Provinsi Sumatra</string>
+    <string name="title_about_detail">Github \n\nWebsite</string>
+    <string name="about_detail">https://github.com/dwiajicahyono \n\n    https://dwiaji.netlify.app/</string>
 
     //1
     <string name="populasiAceh">
