@@ -2,12 +2,30 @@ package com.provinsi.sumatra
 
 import android.content.Intent
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.widget.AdapterView.OnItemClickListener
 import androidx.appcompat.app.AppCompatActivity
 import com.example.listviewkotpractice.ListData
 import com.provinsi.sumatra.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.toolbar_profile, menu)
+        return true
+    }
+
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when(item.itemId) {
+            R.id.profile -> {
+                val profile = Intent(this@MainActivity, AboutActivity::class.java)
+                startActivity(profile)
+            }
+        }
+        return true
+    }
 
     private lateinit var binding: ActivityMainBinding
     private lateinit var listAdapter: ListAdapter
