@@ -77,7 +77,7 @@ class MainActivity : AppCompatActivity() {
             R.string.lampungDesc
         )
         val nameList = arrayOf("Aceh", "Sumatra Utara", "Sumatra Barat", "Riau", "Kepulauan Riau","Jambi", "Bengkulu","Sumatra Selatan", "Bangka Belitung", "lampung")
-        val areaList = arrayOf("57.956", "72.981", "42.012", "87.024", "8256", "5058", "19.919", "91.592","16.424", "34.632")
+        val areaList = arrayOf("57.956", "72.981", "42.012", "87.024", "8.256", "5.058", "19.919", "91.592","16.424", "34.632")
 
         for (i in imageList.indices) {
             listData = ListData(

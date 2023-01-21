@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Provinsi Sumatra</string>
-    <string name="my_name">Provinsi Sumatra</string>
-    <string name="my_email">Provinsi Sumatra</string>
+    <string name="my_name">Dwi Aji Cahyono</string>
+    <string name="my_email">dwiaji724@gmail.com</string>
     <string name="title_about_detail">Github \n\nWebsite</string>
     <string name="about_detail">https://github.com/dwiajicahyono \n\n    https://dwiaji.netlify.app/</string>
 
@@ -9,61 +9,70 @@
     <string name="populasiAceh">
         5.184.003 Jiwa
     </string>
-    <string name="acehDesc">Cook</string>
+    <string name="acehDesc">Salah satu wisata alam yang terkenal di Aceh adalah wisata pantai seperti dapat ditemui di Sabang, Aceh Besar, Aceh Jaya, Aceh Selatan, Simeulue dan Pulau Banyak. Beberapa pantai pasir putih yang terkenal misalkan Pantai Lampuuk di Aceh Besar dan Pantai Pasi Saka di Aceh Jaya. Wisata alam lainnya yang terkenal adalah wisata daerah pegunungan seperti di Tangse dan Dataran Tinggi Gayo. Selain itu Aceh juga dikenal dengan cakupan hutan yang masih cukup lestari seperti Cagar Alam Ulu Masen.</string>
 
     //2
     <string name="populasiSumut">
-        5.184.003 Jiwa
+        14.753.286 Jiwa
     </string>
-    <string name="sumutDesc">Add</string>
+    <string name="sumutDesc">Pemerintah Provinsi (Pemprov) Sumatra Utara juga sudah membangun berbagai prasarana dan infrastruktur untuk memperlancar perdagangan baik antar kabupaten maupun antar provinsi. Sektor swasta juga terlibat dengan mendirikan berbagai properti untuk perdagangan, perkantoran, hotel dan lain-lain. Tentu saja sektor lain, seperti koperasi, pertambangan dan energi, industri, pariwisata, pos dan telekomunikasi, transmigrasi, dan sektor sosial kemasyarakatan juga ikut dikembangkan. </string>
 
     //3
     <string name="populasiSumbar">
-        5.184.003 Jiwa
+        5.511.246 Jiwa
     </string>
-    <string name="sumbarDesc">Add</string>
+    <string name="sumbarDesc">Sumatra Barat merupakan salah satu provinsi di Indonesia yang kaya dengan sumber keanekaragaman hayati. Sebagian besar wilayah Sumatra Barat masih terdapat hutan tropis alami dan dilindungi. Berbagai spesies langka masih dapat dijumpai, misalnya Rafflesia arnoldii (bunga terbesar di dunia), harimau sumatera, siamang, tapir, rusa, beruang, dan berbagai jenis burung dan kupu-kupu. Terdapat dua Taman Nasional di provinsi ini.</string>
 
     //4
     <string name="populasiRiau">
-    5.184.003 Jiwa
+    6.013.651 Jiwa
     </string>
-    <string name="riauDesc">Add</string>
+    <string name="riauDesc">Provinsi Kepulauan Riau merupakan gerbang wisata dari mancanegara kedua setelah Pulau Bali. Jumlah wisatawan asing yang datang berkunjung mencapai 1,5 juta orang pada tahun 2005. Objek wisata di provinsi Kepulauan Riau antara lain adalah wisata pantai yang terletak di berbagai kabupaten, dan kota. Pantai Melur, Pulau Abang dan Pantai Nongsa di kota Batam, Pantai Pelawan di kabupaten Karimun, Pantai Lagoi, Pantai Tanjung Berakit, Pantai Trikora.</string>
 
     //5
     <string name="populasiKepulauanRiau">
-        5.184.003 Jiwa
+        1.896.103 Jiwa
     </string>
-    <string name="kepRiauDesc">Add</string>
+    <string name="kepRiauDesc">Provinsi Kepulauan Riau merupakan gerbang wisata dari mancanegara kedua setelah Pulau Bali. Jumlah wisatawan asing yang datang berkunjung mencapai 1,5 juta orang pada tahun 2005. Objek wisata di provinsi Kepulauan Riau antara lain adalah wisata pantai yang terletak di berbagai kabupaten, dan kota. Pantai Melur, Pulau Abang dan Pantai Nongsa di kota Batam, dan Bintan Leisure Park di kabupaten Bintan, Pantai Batu Kasah Natuna.</string>
 
     //6
     <string name="populasiJambi">
-        5.184.003 Jiwa
+        3.477.124 Jiwa
     </string>
-    <string name="jambiDesc">Add</string>
+    <string name="jambiDesc">Provinsi Jambi terdiri dari 11 kabupaten/kota. Sarana dan prasarana di Jambi saat ini sudah tersedia dengan cukup baik. Ada banyak cara yang dapat digunakan untuk mengakses berbagai tempat objek wisata di Kota Jambi maupun kabupaten lainnya di provinsi Jambi. Sarana transportasi yang bisa digunakan untuk ke provinsi Jambi dengan pesawat dan mobil. Selain kota Jambi, kabupaten yang telah memilki bandara adalah kabupaten Bungo dan Kerinci.</string>
 
     //7
     <string name="populasiBengkulu">
-        5.184.003 Jiwa
+        1.975.845 Jiwa
     </string>
-    <string name="bengkuluDesc">Add</string>
+    <string name="bengkuluDesc">Pada masa pemerintahan Inggris, bunga ini dipopulerkan secara ilmiah oleh Sir Thomas Raffles dan Dr. Arnoldy pada tahun 1818 di wilayah hutan yang lokasinya terletak di antara Kabupaten Kepahiang dan Bengkulu Tengah. Bunga ini adalah bunga terbesar di dunia dengan diameter 100 cm. Bunga ini membutuhkan 6 sampai 8 bulan untuk tumbuh dan 15 hari setelah itu untuk berbunga. Keunikan dari bunga ini adalah tidak adanya akar, daun dan batang.</string>
 
     //8
     <string name="populasiSumsel">
-        5.184.003 Jiwa
+        8.182.597 Jiwa
     </string>
-    <string name="sumselDesc">Add</string>
+    <string name="sumselDesc">Secara topografi, wilayah Sumatra Selatan di Pantai Timur tanahnya terdiri dari rawa-rawa dan payau yang dipengaruhi oleh pasang surut. Vegetasinya berupa tumbuhan palmase dan kayu rawa (bakau). Sedikit makin ke barat merupakan dataran rendah yang luas. Lebih masuk kedalam wilayahnya semakin bergunung-gunung. Disana terdapat bukit barisan yang membelah Sumatra Selatan dan merupakan daerah pegunungan dengan ketinggian 900 – 1.200 meter dari permukaan laut.</string>
 
     //9
     <string name="populasiBangkaBelitung">
-        5.184.003 Jiwa
+        1.349.121 Jiwa
     </string>
-    <string name="babelDesc">Add</string>
+    <string name="babelDesc">Di Kepulauan Bangka Belitung tumbuh bermacam-macam jenis kayu berkualitas yang diperdagangkan ke luar daerah seperti: Kayu Pelawan, Kayu Meranti, Ramin, Mambalong, Mandaru, Bulin dan Kerengas. Tanaman hutan lainnya adalah: Keramunting, buk-buk, Mate Ayem, Kapuk, Jelutung, Pulai, Gelam, Meranti rawa, Mentagor, Mahang, Bakau dan lain-lain. Hasil hutan lainnya merupakan hasil ikutan terutama madu alam dan rotan.</string>
 
     //10
     <string name="populasiLampung">
-        5.184.003 Jiwa
+        9.597.375 Jiwa
     </string>
-    <string name="lampungDesc">Add</string>
+    <string name="lampungDesc">Pantai
+Objek wisata pantai di Lampung terdapat di Lampung Selatan, Pesawaran, Tanggamus, dan Kabupaten Pesisir Barat.\n
+
+Taman Nasional\n
+Lampung memiliki Taman Nasional Way Kambas yang terdapat di Kabupaten Lampung Timur.\n
+
+Wisata alam lainnya\n
+Danau Ranau\n
+Festival\n
+Festival Sekura yang diadakan dalam seminggu setelah Idul Fitri di Lampung Barat.</string>
 
 
 </resources>
